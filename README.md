@@ -1,0 +1,2 @@
+# Twitter-Natural-Disaster-predicter
+This repository consists of jupyter notebook which show case taking in text data "Tweets" and predicting that if the tweet about the natural disaster really happened or not. The project explores using all forms of text classification starting from 1 Dimensional CNN models, to uni and bidirectional GRU and LTSM model combinations and also using pretrained Universal Sentence Encoder.
